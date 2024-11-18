@@ -105,10 +105,10 @@ We welcome contributions to improve this project. Please follow these guidelines
 ## Screenshots
 
 ### Customer Dashboard:
-![Customer Dashboard](screenshots/manager_dashboard.png)
+![Customer Dashboard](screenshots/userUI.png)
 
 ### Hotel Manager Dashboard:
-![Hotel Manager Dashboard](screenshots/manager_dashboard.png)
+![Hotel Manager Dashboard](screenshots/adminUI.png)
 
 ## License
 

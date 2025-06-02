@@ -114,3 +114,7 @@ We welcome contributions to improve this project. Please follow these guidelines
 
 This project is not licensed.
 
+## Contact  
+For any inquiries or contributions, reach out to:  
+**Email**: dulsaramanakal@gmail.com
+**Email**: ranaweerahimaya052@gmail.com
